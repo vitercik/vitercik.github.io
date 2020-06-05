@@ -17,4 +17,5 @@ with Maria-Florina Balcan and Tuomas Sandholm
 with Maria-Florina Balcan and Tuomas Sandholm  
 *ACM Conference on Economics and Computation (EC)*  
 :trophy: **Exemplary Artificial Intelligence Track Paper Award** (awarded to one paper at EC 2019).  
-:trophy: **Best Presentation by a Student or Postdoctoral Researcher** (EC 2019).
+:trophy: **Best Presentation by a Student or Postdoctoral Researcher** (EC 2019).  
+[[paper]](https://arxiv.org/pdf/1902.09413.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/EC19.pdf) [[video]](https://www.youtube.com/watch?v=pH1bO77qa0A) [[poster]](https://www.cs.cmu.edu/~eviterci/downloads/EC19poster.pdf)
