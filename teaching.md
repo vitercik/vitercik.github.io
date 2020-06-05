@@ -10,10 +10,9 @@ Presented at:
     - *ACM Symposium on Theory of Computing (STOC) 2019*
     - *ACM Conference on Economics and Computation (EC) 2019*
     - *AAAI Conference on Artificial Intelligence 2019*   
-    - *AAAI Conference on Artificial Intelligence 2020*
+    - *AAAI Conference on Artificial Intelligence 2020*  
 
 # Teaching
-
 - **CMU 10-701: Introduction to Machine Learning**  
 Teaching Assistant for Ziv Bar-Joseph and Barnabás Póczos  
 Fall 2017  
