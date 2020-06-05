@@ -29,3 +29,25 @@ with Daniel Alabi, Adam Tauman Kalai, Katrina Ligett, Cameron Musco, and Christo
 with Christian Borgs, Jennifer Chayes, Nika Haghtalab, and Adam Tauman Kalai  
 *AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2019*  
 [[paper]](https://www.cs.cmu.edu/~eviterci/papers/AIES_camera_ready.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/AIES_2min.pdf) [[poster]](https://www.cs.cmu.edu/~eviterci/downloads/AIES_poster.pdf)
+
+- **Dispersion for Data-Driven Algorithm Design, Online Learning, and Private Optimization**  
+with Maria-Florina Balcan and Travis Dick  
+*IEEE Symposium on Foundations of Computer Science (FOCS) 2018*  
+*Preliminary versions in the ICML Workshop on Private Secure Machine Learning 2017 and the ICML Workshop on Privacy in Machine Learning and Artificial Intelligence 2018*  
+[[paper]](https://arxiv.org/pdf/1711.03091.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/Dispersion.pdf) [[poster]](https://www.cs.cmu.edu/~eviterci/downloads/DispersionPoster.pdf)
+
+- **Learning to Branch**  
+with Maria-Florina Balcan, Travis Dick, and Tuomas Sandholm  
+*International Conference on Machine Learning (ICML) 2018*  
+[[paper]](https://arxiv.org/pdf/1803.10150.pdf)  [[slides]](https://www.cs.cmu.edu/~eviterci/slides/LearningToBranch.pdf) [[video]](https://vimeo.com/287767360)
+
+- **A General Theory of Sample Complexity for Multi-Item Profit Maximization**  
+with Maria-Florina Balcan and Tuomas Sandholm
+*ACM Conference on Economics and Computation (EC) 2018*  
+*Preliminary versions in the EC Workshop on Algorithmic Game Theory and Data Science 2017, the AAMAS-IJCAI Workshop on Agents and Incentives in Artificial Intelligence 2018, and the EC ACM/INFORMS Workshop on Market Design 2019*  
+[[paper]](https://arxiv.org/pdf/1705.00243.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/SampleComplexityPM.pdf)
+
+- **Synchronization Strings: Channel Simulations and Interactive Coding for Insertions and Deletions**  
+with Bernhard Haeupler and Amirbehshad Shahrasbi  
+*International Colloquium on Automata, Languages and Programming (ICALP) 2018*  
+[[paper]](https://arxiv.org/pdf/1707.04233.pdf)
