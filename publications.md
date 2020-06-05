@@ -8,7 +8,7 @@ with Maria-Florina Balcan, Dan DeBlasio, Travis Dick, Carl Kingsford, and Tuomas
 *Manuscript*  
 [[paper]](https://arxiv.org/pdf/1908.02894.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/UBC.pdf)
 
-- **Refined bounds for algorithm configuration: The knife-edge of dual class approximability**  
+- **Refined Bounds for Algorithm Configuration: The Knife-edge of Dual Class Approximability**  
 with Maria-Florina Balcan and Tuomas Sandholm  
 *International Conference on Machine Learning (ICML) 2020*
 
