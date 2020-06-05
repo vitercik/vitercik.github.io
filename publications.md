@@ -12,3 +12,9 @@ with Maria-Florina Balcan, Dan DeBlasio, Travis Dick, Carl Kingsford, and Tuomas
 with Maria-Florina Balcan and Tuomas Sandholm  
 *AAAI Conference on Artificial Intelligence*  
 [[paper]](https://arxiv.org/pdf/1905.10819.pdf) [[poster]](https://www.cs.cmu.edu/~eviterci/downloads/AAAI20.pdf)
+
+- **Estimating Approximate Incentive Compatibility**  
+with Maria-Florina Balcan and Tuomas Sandholm  
+*ACM Conference on Economics and Computation (EC)*  
+:trophy: **Exemplary Artificial Intelligence Track Paper Award** (awarded to one paper at EC 2019).  
+:trophy: **Best Presentation by a Student or Postdoctoral Researcher** (EC 2019).
