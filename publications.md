@@ -59,12 +59,12 @@ with Maria-Florina Balcan, Vaishnavh Nagarajan, and Colin White
 *Conference on Learning Theory (COLT) 2017*  
 [[paper]](https://arxiv.org/pdf/1611.04535.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/Configuration.pdf)
 
-- **Sample Complexity of Automated Mechanism Design**
-with Maria-Florina Balcan and Tuomas Sandholm
-*Conference on Neural Information Processing Systems (NeurIPS) 2016*
+- **Sample Complexity of Automated Mechanism Design**  
+with Maria-Florina Balcan and Tuomas Sandholm  
+*Conference on Neural Information Processing Systems (NeurIPS) 2016*  
 [[paper]](https://arxiv.org/pdf/1606.04145.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/SampleComplexityRM.pdf) [[video]](https://www.youtube.com/watch?v=YJkyY4ozLQE)
 
 - **Learning Combinatorial Functions from Pairwise Comparisons**  
-with Maria-Florina Balcan and Colin White
+with Maria-Florina Balcan and Colin White  
 *Conference on Learning Theory (COLT) 2016*  
 [[paper]](https://arxiv.org/pdf/1605.09227.pdf)
