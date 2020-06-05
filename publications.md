@@ -33,7 +33,6 @@ with Christian Borgs, Jennifer Chayes, Nika Haghtalab, and Adam Tauman Kalai
 - **Dispersion for Data-Driven Algorithm Design, Online Learning, and Private Optimization**  
 with Maria-Florina Balcan and Travis Dick  
 *IEEE Symposium on Foundations of Computer Science (FOCS) 2018*  
-*Preliminary versions in the ICML Workshop on Private Secure Machine Learning 2017 and the ICML Workshop on Privacy in Machine Learning and Artificial Intelligence 2018*  
 [[paper]](https://arxiv.org/pdf/1711.03091.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/Dispersion.pdf) [[poster]](https://www.cs.cmu.edu/~eviterci/downloads/DispersionPoster.pdf)
 
 - **Learning to Branch**  
@@ -42,12 +41,26 @@ with Maria-Florina Balcan, Travis Dick, and Tuomas Sandholm
 [[paper]](https://arxiv.org/pdf/1803.10150.pdf)  [[slides]](https://www.cs.cmu.edu/~eviterci/slides/LearningToBranch.pdf) [[video]](https://vimeo.com/287767360)
 
 - **A General Theory of Sample Complexity for Multi-Item Profit Maximization**  
-with Maria-Florina Balcan and Tuomas Sandholm
+with Maria-Florina Balcan and Tuomas Sandholm  
 *ACM Conference on Economics and Computation (EC) 2018*  
-*Preliminary versions in the EC Workshop on Algorithmic Game Theory and Data Science 2017, the AAMAS-IJCAI Workshop on Agents and Incentives in Artificial Intelligence 2018, and the EC ACM/INFORMS Workshop on Market Design 2019*  
 [[paper]](https://arxiv.org/pdf/1705.00243.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/SampleComplexityPM.pdf)
 
 - **Synchronization Strings: Channel Simulations and Interactive Coding for Insertions and Deletions**  
 with Bernhard Haeupler and Amirbehshad Shahrasbi  
 *International Colloquium on Automata, Languages and Programming (ICALP) 2018*  
 [[paper]](https://arxiv.org/pdf/1707.04233.pdf)
+
+- **Learning-Theoretic Foundations of Algorithm Configuration for Combinatorial Partitioning Problems**
+with Maria-Florina Balcan, Vaishnavh Nagarajan, and Colin White
+*Conference on Learning Theory (COLT) 2017*  
+[[paper]](https://arxiv.org/pdf/1611.04535.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/Configuration.pdf)
+
+- **Sample Complexity of Automated Mechanism Design**
+with Maria-Florina Balcan and Tuomas Sandholm
+*Conference on Neural Information Processing Systems (NeurIPS) 2016*
+[[paper]](https://arxiv.org/pdf/1606.04145.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/SampleComplexityRM.pdf) [[video]](https://www.youtube.com/watch?v=YJkyY4ozLQE)
+
+- **Learning Combinatorial Functions from Pairwise Comparisons**  
+with Maria-Florina Balcan and Colin White
+*Conference on Learning Theory (COLT) 2016*  
+[[paper]](https://arxiv.org/pdf/1605.09227.pdf)
