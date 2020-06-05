@@ -11,6 +11,7 @@ Presented at:
     - *ACM Conference on Economics and Computation (EC) 2019*
     - *AAAI Conference on Artificial Intelligence 2019*   
     - *AAAI Conference on Artificial Intelligence 2020*  
+[webpage](https://sites.google.com/view/amdtutorial/home)
 
 # Teaching
 - **CMU 10-701: Introduction to Machine Learning**  
