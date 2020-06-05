@@ -19,3 +19,8 @@ with Maria-Florina Balcan and Tuomas Sandholm
 🏆 **Exemplary Artificial Intelligence Track Paper Award** (awarded to one paper at EC 2019).  
 🏆 **Best Presentation by a Student or Postdoctoral Researcher** (EC 2019).  
 [[paper]](https://arxiv.org/pdf/1902.09413.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/EC19.pdf) [[video]](https://www.youtube.com/watch?v=pH1bO77qa0A) [[poster]](https://www.cs.cmu.edu/~eviterci/downloads/EC19poster.pdf)
+
+- **Learning to Prune: Speeding up Repeated Computations**  
+with Daniel Alabi, Adam Tauman Kalai, Katrina Ligett, Cameron Musco, and Christos Tzamos  
+*Conference on Learning Theory (COLT) 2019*  
+[[paper]](https://arxiv.org/pdf/1904.11875.pdf)  [[slides]](https://www.cs.cmu.edu/~eviterci/slides/COLT19.pdf) [[video]](https://youtu.be/dWEvRb1LpRQ) [[poster]](https://www.cs.cmu.edu/~eviterci/downloads/COLT19poster.pdf)
