@@ -16,7 +16,7 @@ with Maria-Florina Balcan and Tuomas Sandholm
 - **Estimating Approximate Incentive Compatibility**  
 with Maria-Florina Balcan and Tuomas Sandholm  
 *ACM Conference on Economics and Computation (EC) 2019*  
-🏆 **Exemplary Artificial Intelligence Track Paper Award** (awarded to one paper at EC 2019).  
+🏆 **Exemplary Artificial Intelligence Track Paper Award** (EC 2019).  
 🏆 **Best Presentation by a Student or Postdoctoral Researcher** (EC 2019).  
 [[paper]](https://arxiv.org/pdf/1902.09413.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/EC19.pdf) [[video]](https://www.youtube.com/watch?v=pH1bO77qa0A) [[poster]](https://www.cs.cmu.edu/~eviterci/downloads/EC19poster.pdf)
 
@@ -24,3 +24,8 @@ with Maria-Florina Balcan and Tuomas Sandholm
 with Daniel Alabi, Adam Tauman Kalai, Katrina Ligett, Cameron Musco, and Christos Tzamos  
 *Conference on Learning Theory (COLT) 2019*  
 [[paper]](https://arxiv.org/pdf/1904.11875.pdf)  [[slides]](https://www.cs.cmu.edu/~eviterci/slides/COLT19.pdf) [[video]](https://youtu.be/dWEvRb1LpRQ) [[poster]](https://www.cs.cmu.edu/~eviterci/downloads/COLT19poster.pdf)
+
+- **Algorithmic Greenlining: An Approach to Increase Diversity**  
+with Christian Borgs, Jennifer Chayes, Nika Haghtalab, and Adam Tauman Kalai  
+*AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2019*  
+[[paper]](https://www.cs.cmu.edu/~eviterci/papers/AIES_camera_ready.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/AIES_2min.pdf) [[poster]](https://www.cs.cmu.edu/~eviterci/downloads/AIES_poster.pdf)
