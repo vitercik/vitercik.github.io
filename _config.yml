@@ -13,6 +13,7 @@ author: Some Person
 
 navbar-links:
   Publications: "publications"
+  Tutorials and teaching: "teaching"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
