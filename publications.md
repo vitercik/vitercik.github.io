@@ -20,8 +20,8 @@ with Maria-Florina Balcan and Tuomas Sandholm
 - **Estimating Approximate Incentive Compatibility**  
 with Maria-Florina Balcan and Tuomas Sandholm  
 *ACM Conference on Economics and Computation (EC) 2019*  
-🏆 **Exemplary Artificial Intelligence Track Paper Award** (EC 2019).  
-🏆 **Best Presentation by a Student or Postdoctoral Researcher** (EC 2019).  
+🏆 **[Exemplary Artificial Intelligence Track Paper Award](http://www.sigecom.org/award-paper.html)** (EC 2019)  
+🏆 **[Best Presentation by a Student or Postdoctoral Researcher](http://www.sigecom.org/award-presentation.html)** (EC 2019)  
 [[paper]](https://arxiv.org/pdf/1902.09413.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/EC19.pdf) [[video]](https://www.youtube.com/watch?v=pH1bO77qa0A) [[poster]](https://www.cs.cmu.edu/~eviterci/downloads/EC19poster.pdf)
 
 - **Learning to Prune: Speeding up Repeated Computations**  
