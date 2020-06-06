@@ -12,9 +12,9 @@ author: Ellen Vitercik
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Publications: "publications"
-  Tutorials and teaching: "teaching"
   CV: "downloads/CV.pdf"
+  Publications: "publications"
+  Tutorials & teaching: "teaching"
 
 # --- Logo --- #
 
