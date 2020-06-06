@@ -12,7 +12,6 @@ author: Ellen Vitercik
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  CV: "downloads/CV.pdf"
   Publications: "publications"
   Tutorials & teaching: "teaching"
 
