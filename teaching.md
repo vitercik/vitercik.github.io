@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tutorials and teaching
+title: Tutorials & teaching
 ---
 
 # Tutorials
