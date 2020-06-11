@@ -11,6 +11,7 @@ with Maria-Florina Balcan, Dan DeBlasio, Travis Dick, Carl Kingsford, and Tuomas
 - **Refined Bounds for Algorithm Configuration: The Knife-edge of Dual Class Approximability**  
 with Maria-Florina Balcan and Tuomas Sandholm  
 *International Conference on Machine Learning (ICML) 2020*
+[[slides]](slides/ICML20.pdf)
 
 - **Learning to Optimize Computational Resources: Frugal Training with Generalization Guarantees**  
 with Maria-Florina Balcan and Tuomas Sandholm  
