@@ -54,6 +54,7 @@ round-avatar: true
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
+#  mastodon: instance.url/@username
 
 # --- General options --- #
 
