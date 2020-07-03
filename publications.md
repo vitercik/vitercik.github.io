@@ -10,8 +10,9 @@ with Maria-Florina Balcan, Dan DeBlasio, Travis Dick, Carl Kingsford, and Tuomas
 
 - **Private Optimization Without Constraint Violations**  
 with Andr&#233;s Mu&#241;oz, Umar Syed, and Sergei Vassilvitskii  
-*Preliminary version in the workshop on Privacy in Machine Learning (PriML) at
-Conference on Neural Information Processing Systems (NeurIPS) 2019*  
+*Manuscript*  
+Preliminary version in the *Privacy in Machine Learning Workshop (PriML)* at the
+*Conference on Neural Information Processing Systems (NeurIPS) 2019*  
 [[paper]](https://arxiv.org/pdf/2007.01181.pdf)
 
 - **Refined Bounds for Algorithm Configuration: The Knife-edge of Dual Class Approximability**  
