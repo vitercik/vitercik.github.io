@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 ---
+##Manuscripts
 
 - **How Much Data is Sufficient to Learn High-Performing Algorithms?**  
 with Maria-Florina Balcan, Dan DeBlasio, Travis Dick, Carl Kingsford, and Tuomas Sandholm  
@@ -15,8 +16,10 @@ Preliminary version in the *Privacy in Machine Learning Workshop (PriML)* at the
 *Conference on Neural Information Processing Systems (NeurIPS) 2019*  
 [[paper]](https://arxiv.org/pdf/2007.01181.pdf)
 
+##Conference publications
+
 - **Refined Bounds for Algorithm Configuration: The Knife-edge of Dual Class Approximability**  
-with Maria-Florina Balcan and Tuomas Sandholm  
+with Maria-Florina Balcan and Tuomas Sandholm    
 *International Conference on Machine Learning (ICML) 2020*  
 [[paper]](https://arxiv.org/pdf/2006.11827.pdf) [[slides]](slides/ICML20.pdf)
 
