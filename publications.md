@@ -6,12 +6,10 @@ title: Publications
 
 - **How Much Data is Sufficient to Learn High-Performing Algorithms?**  
 with Maria-Florina Balcan, Dan DeBlasio, Travis Dick, Carl Kingsford, and Tuomas Sandholm  
-*Manuscript*  
 [[paper]](https://arxiv.org/pdf/1908.02894.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/UBC.pdf)
 
 - **Private Optimization Without Constraint Violations**  
 with Andr&#233;s Mu&#241;oz, Umar Syed, and Sergei Vassilvitskii  
-*Manuscript*  
 Preliminary version in the *Privacy in Machine Learning Workshop (PriML)* at the
 *Conference on Neural Information Processing Systems (NeurIPS) 2019*  
 [[paper]](https://arxiv.org/pdf/2007.01181.pdf)
