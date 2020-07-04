@@ -7,11 +7,11 @@ title: Tutorials & teaching
 **[New Frontiers of Automated Mechanism Design for Pricing and Auctions](https://sites.google.com/view/amdtutorial/home)**  
 *with Nina Balcan and Tuomas Sandholm*  
 Presented at:
-- *International Conference on Machine Learning (ICML) 2018*
-- *ACM Symposium on Theory of Computing (STOC) 2019*
-- *ACM Conference on Economics and Computation (EC) 2019*
-- *AAAI Conference on Artificial Intelligence 2019*   
 - *AAAI Conference on Artificial Intelligence 2020*  
+- *AAAI Conference on Artificial Intelligence 2019*  
+- *ACM Conference on Economics and Computation (EC) 2019*  
+- *ACM Symposium on Theory of Computing (STOC) 2019*  
+- *International Conference on Machine Learning (ICML) 2018*
 
 # Teaching
 - **CMU 10-701: Introduction to Machine Learning**  
