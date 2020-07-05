@@ -64,7 +64,7 @@ with Bernhard Haeupler and Amirbehshad Shahrasbi
 [[paper]](https://arxiv.org/pdf/1707.04233.pdf)
 
 - **Learning-Theoretic Foundations of Algorithm Configuration for Combinatorial Partitioning Problems**  
-with Maria-Florina Balcan, Vaishnavh Nagarajan, and Colin White
+with Maria-Florina Balcan, Vaishnavh Nagarajan, and Colin White  
 *Conference on Learning Theory (COLT) 2017*  
 [[paper]](https://arxiv.org/pdf/1611.04535.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/Configuration.pdf)
 
