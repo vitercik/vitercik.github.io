@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tutorials & teaching
+show-avatar: false
 ---
 
 # Tutorials
