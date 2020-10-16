@@ -8,6 +8,7 @@ show-avatar: false
 **[New Frontiers of Automated Mechanism Design for Pricing and Auctions](https://sites.google.com/view/amdtutorial/home)**  
 *with Nina Balcan and Tuomas Sandholm*  
 Presented at:
+- *AAAI Conference on Artificial Intelligence 2021*  
 - *AAAI Conference on Artificial Intelligence 2020*  
 - *AAAI Conference on Artificial Intelligence 2019*  
 - *ACM Conference on Economics and Computation (EC) 2019*  
@@ -15,6 +16,10 @@ Presented at:
 - *International Conference on Machine Learning (ICML) 2018*
 
 # Teaching
+- **CMU 15-300: Research and Innovation in Computer Science**  
+Teaching Assistant for Jonathan Aldrich and Bogdan Vasilescu  
+Fall 2020
+
 - **CMU 10-701: Introduction to Machine Learning**  
 Teaching Assistant for Ziv Bar-Joseph and Barnabás Póczos  
 Fall 2017  
