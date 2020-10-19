@@ -14,7 +14,7 @@ with Andr&#233;s Mu&#241;oz, Umar Syed, and Sergei Vassilvitskii
 Preliminary versions in the *Privacy in Machine Learning Workshop (PriML)* at the
 *Conference on Neural Information Processing Systems (NeurIPS) 2019* and
 *Theory and Practice of Differential Privacy (TPDP) 2020*  
-[[paper]](https://arxiv.org/pdf/2007.01181.pdf)
+[[paper]](https://arxiv.org/pdf/2007.01181.pdf) [[poster]](downloads/TPDP.pdf)
 
 ## Conference publications
 
