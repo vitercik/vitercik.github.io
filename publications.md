@@ -10,7 +10,7 @@ with Maria-Florina Balcan, Dan DeBlasio, Travis Dick, Carl Kingsford, and Tuomas
 [[paper]](https://arxiv.org/pdf/1908.02894.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/UBC.pdf)
 
 - **Private Optimization Without Constraint Violations**  
-with Andr&#233;s Mu&#241;oz, Umar Syed, and Sergei Vassilvitskii  
+with Andr&#233;s Mu&#241;oz Medina, Umar Syed, and Sergei Vassilvitskii  
 Preliminary versions in the *Privacy in Machine Learning Workshop (PriML)* at the
 *Conference on Neural Information Processing Systems (NeurIPS) 2019* and
 *Theory and Practice of Differential Privacy (TPDP) 2020*  
