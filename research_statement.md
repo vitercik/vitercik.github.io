@@ -5,6 +5,6 @@ bibliography: dairefs.bib
 show-avatar: false
 ---
 
-@Balcan17:Learning
+[@Balcan17:Learning]
 
-##References
+## References
