@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research statement
-bibliography: dairefs.bib
+bibliography: [dairefs.bib]
 show-avatar: false
 ---
 
