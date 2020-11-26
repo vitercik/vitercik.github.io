@@ -8,12 +8,14 @@ show-avatar: false
 **[New Frontiers of Automated Mechanism Design for Pricing and Auctions](https://sites.google.com/view/amdtutorial/home)**  
 *with Nina Balcan and Tuomas Sandholm*  
 Presented at:
-- *AAAI Conference on Artificial Intelligence 2021*  
-- *AAAI Conference on Artificial Intelligence 2020*  
-- *AAAI Conference on Artificial Intelligence 2019*  
-- *ACM Conference on Economics and Computation (EC) 2019*  
-- *ACM Symposium on Theory of Computing (STOC) 2019*  
-- *International Conference on Machine Learning (ICML) 2018*
+<ul>
+  <li>AAAI Conference on Artificial Intelligence 2021</li>
+  <li>AAAI Conference on Artificial Intelligence 2020</li>
+  <li>AAAI Conference on Artificial Intelligence 2019</li>
+  <li>ACM Conference on Economics and Computation (EC) 2019</li>
+  <li>ACM Symposium on Theory of Computing (STOC) 2019</li>
+  <li>International Conference on Machine Learning (ICML) 2018</li>
+</ul>
 
 # Teaching
 - **CMU 15-300: Research and Innovation in Computer Science**  
