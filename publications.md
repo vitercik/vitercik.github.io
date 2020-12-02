@@ -20,7 +20,7 @@ Preliminary versions in the *Privacy in Machine Learning Workshop (PriML)* at th
 
 - **Generalization in portfolio-based algorithm selection**  
 with Maria-Florina Balcan and Tuomas Sandholm    
-*AAAI Conference on Artificial Intelligence 2020*  
+*AAAI Conference on Artificial Intelligence 2021*  
 
 - **Refined Bounds for Algorithm Configuration: The Knife-edge of Dual Class Approximability**  
 with Maria-Florina Balcan and Tuomas Sandholm    
