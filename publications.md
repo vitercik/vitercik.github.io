@@ -18,7 +18,7 @@ Preliminary versions in the *Privacy in Machine Learning Workshop (PriML)* at th
 
 ## Conference publications
 
-- **Generalization in portfolio-based algorithm selection**  
+- **Generalization in Portfolio-based Algorithm Selection**  
 with Maria-Florina Balcan and Tuomas Sandholm    
 *AAAI Conference on Artificial Intelligence 2021*  
 
