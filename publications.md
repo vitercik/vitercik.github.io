@@ -7,7 +7,7 @@ show-avatar: false
 
 - **How Much Data is Sufficient to Learn High-Performing Algorithms?**  
 with Maria-Florina Balcan, Dan DeBlasio, Travis Dick, Carl Kingsford, and Tuomas Sandholm  
-[[paper]](https://arxiv.org/pdf/1908.02894.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/UBC.pdf)
+[[paper]](https://arxiv.org/pdf/1908.02894.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/Columbia20.pdf)
 
 - **Private Optimization Without Constraint Violations**  
 with Andr&#233;s Mu&#241;oz Medina, Umar Syed, and Sergei Vassilvitskii  
