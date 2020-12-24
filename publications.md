@@ -26,7 +26,7 @@ with Maria-Florina Balcan and Tuomas Sandholm
 with Maria-Florina Balcan and Tuomas Sandholm    
 *International Conference on Machine Learning (ICML) 2020*  
 [[paper]](https://arxiv.org/pdf/2006.11827.pdf) [[slides]](slides/INFORMS20.pdf)
-[[video]](https://youtu.be/NuFW66FOn1s)
+[[video]](https://icml.cc/virtual/2020/poster/5912)
 
 - **Learning to Optimize Computational Resources: Frugal Training with Generalization Guarantees**  
 with Maria-Florina Balcan and Tuomas Sandholm  
