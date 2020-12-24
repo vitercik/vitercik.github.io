@@ -26,7 +26,7 @@ with Maria-Florina Balcan and Tuomas Sandholm
 with Maria-Florina Balcan and Tuomas Sandholm    
 *International Conference on Machine Learning (ICML) 2020*  
 [[paper]](https://arxiv.org/pdf/2006.11827.pdf) [[slides]](slides/ICML20.pdf)
-[[video]](https://icml.cc/virtual/2020/poster/5912)
+[[video]](https://slideslive.com/38927642/refined-bounds-for-algorithm-configuration-the-knifeedge-of-dual-class-approximability)
 
 - **Learning to Optimize Computational Resources: Frugal Training with Generalization Guarantees**  
 with Maria-Florina Balcan and Tuomas Sandholm  
@@ -63,7 +63,7 @@ with Maria-Florina Balcan, Travis Dick, and Tuomas Sandholm
 - **A General Theory of Sample Complexity for Multi-Item Profit Maximization**  
 with Maria-Florina Balcan and Tuomas Sandholm  
 *ACM Conference on Economics and Computation (EC) 2018*  
-[[paper]](https://arxiv.org/pdf/1705.00243.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/SampleComplexityPM.pdf)
+[[paper]](https://arxiv.org/pdf/1705.00243.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/SampleComplexityPM.pdf) [[video]](https://www.youtube.com/watch?v=YgmWndfGqhg)
 
 - **Synchronization Strings: Channel Simulations and Interactive Coding for Insertions and Deletions**  
 with Bernhard Haeupler and Amirbehshad Shahrasbi  
