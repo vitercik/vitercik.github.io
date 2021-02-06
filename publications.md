@@ -3,13 +3,13 @@ layout: page
 title: Publications
 show-avatar: false
 ---
-## Manuscripts
+
+## Conference publications
 
 - **How Much Data is Sufficient to Learn High-Performing Algorithms?**  
 with Maria-Florina Balcan, Dan DeBlasio, Travis Dick, Carl Kingsford, and Tuomas Sandholm  
+*ACM Symposium on Theory of Computing (STOC) 2021*  
 [[paper]](https://arxiv.org/pdf/1908.02894.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/Columbia20.pdf) [[video]](https://slideslive.com/38938391/how-much-data-is-sufficient-to-learn-highperforming-algorithms)
-
-## Conference publications
 
 - **Private Optimization Without Constraint Violations**  
 with Andr&#233;s Mu&#241;oz Medina, Umar Syed, and Sergei Vassilvitskii  
