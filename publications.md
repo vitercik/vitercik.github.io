@@ -6,7 +6,7 @@ show-avatar: false
 
 ## Conference publications
 
-- **How Much Data is Sufficient to Learn High-Performing Algorithms?**  
+- **How Much Data Is Sufficient to Learn High-performing Algorithms? Generalization Guarantees for Data-driven Algorithm Design**  
 with Maria-Florina Balcan, Dan DeBlasio, Travis Dick, Carl Kingsford, and Tuomas Sandholm  
 *ACM Symposium on Theory of Computing (STOC) 2021*  
 [[paper]](https://arxiv.org/pdf/1908.02894.pdf) [[slides]](https://www.cs.cmu.edu/~eviterci/slides/Columbia20.pdf) [[video]](https://slideslive.com/38938391/how-much-data-is-sufficient-to-learn-highperforming-algorithms)
