@@ -23,7 +23,7 @@ Fall 2020
 - **CMU 10-701: Introduction to Machine Learning**  
 Teaching Assistant for Ziv Bar-Joseph and Barnabás Póczos  
 Fall 2017  
-🏆 **Machine Learning Department's [Teaching Assistant of the Year](https://www.ml.cmu.edu/news/news-archive/2018/may/machine-learning-ta-awards-2018.html) award**  
+🏆 **Machine Learning Department's [Teaching Assistant of the Year](https://www.ml.cmu.edu/news/news-archive/2016-2020/2018/may/machine-learning-ta-awards-2018.html) award**  
 [[webpage]](http://www.cs.cmu.edu/~10701/)
 
 - **Columbia COMS W3261: Computer Science Theory**  
