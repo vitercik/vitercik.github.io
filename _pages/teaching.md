@@ -2,9 +2,9 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description:
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 - Spring 2024: [Machine Learning for Discrete Optimization](https://vitercik.github.io/ml4do/) (MS&E 236 / CS 225)
