@@ -18,8 +18,23 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Assistant Professor at Stanford with a joint appointment
+between the [Management Science and Engineering](https://msande.stanford.edu/) department
+and the [Computer Science](https://cs.stanford.edu/) department.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am particularly excited about how machine learning can be used for discrete
+optimization and algorithmic reasoning.
+Here is a [course](https://vitercik.github.io/ml4do) that I have taught on the subject.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before joining Stanford, I was a [Miller](https://miller.berkeley.edu/)
+fellow at UC Berkeley, hosted by Michael Jordan and Jennifer Chayes.
+I received a PhD in Computer Science from Carnegie Mellon University,
+where I was advised by Nina Balcan and Tuomas Sandholm.
+
+My research has been recognized by an [NSF CAREER award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338226&HistoricalAwards=false).
+My [thesis](downloads/thesis.pdf) won the
+	[SIGecom Doctoral Dissertation Award](https://www.sigecom.org/award-phd.html), the
+	[CMU School of Computer Science Distinguished Dissertation Award](https://www.scs.cmu.edu/~scsfacts/dissertation.html), and the
+		[Honorable Mention Victor Lesser Distinguished Dissertation Award](https://www.ifaamas.org/award-victorlesser.html).
+
+I pronounce my last name [VIH-ter-sik](vitercik.mp3).
