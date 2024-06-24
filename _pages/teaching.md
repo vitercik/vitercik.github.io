@@ -2,11 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+- Spring 2024: [Machine Learning for Discrete Optimization](https://vitercik.github.io/ml4do/) (MS&E 236 / CS 225)
+- Spring 2023: [Machine Learning for Algorithm Design](https://vitercik.github.io/ml4algs/) (MS&E/CS 331)
+- Fall 2022, 2023: Introduction to Probability (MS&E 120)
