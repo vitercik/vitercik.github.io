@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description:
+description: Teaching at Stanford
 nav: true
 nav_order: 4
 ---
