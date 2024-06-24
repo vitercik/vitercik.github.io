@@ -33,7 +33,7 @@ I received a PhD in Computer Science from Carnegie Mellon University,
 where I was advised by Nina Balcan and Tuomas Sandholm.
 
 My research has been recognized by an [NSF CAREER award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338226&HistoricalAwards=false).
-My [thesis](downloads/thesis.pdf) won the
+My [thesis](assets/pdf/thesis.pdf) won the
 	[SIGecom Doctoral Dissertation Award](https://www.sigecom.org/award-phd.html), the
 	[CMU School of Computer Science Distinguished Dissertation Award](https://www.scs.cmu.edu/~scsfacts/dissertation.html), and the
 		[Honorable Mention Victor Lesser Distinguished Dissertation Award](https://www.ifaamas.org/award-victorlesser.html).
