@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Jen-Hsun Huang Engineering Center, Room 250</p>
-    <p>475 Via Ortega</p>
-    <p>Stanford, CA 94305</p>
+  more_info: #>
+    #<p>Jen-Hsun Huang Engineering Center, Room 250</p>
+    #<p>475 Via Ortega</p>
+    #<p>Stanford, CA 94305</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
