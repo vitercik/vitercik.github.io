@@ -38,4 +38,4 @@ My [thesis](assets/pdf/thesis.pdf) won the
 	[CMU School of Computer Science Distinguished Dissertation Award](https://www.scs.cmu.edu/~scsfacts/dissertation.html), and the
 		[Honorable Mention Victor Lesser Distinguished Dissertation Award](https://www.ifaamas.org/award-victorlesser.html).
 
-I pronounce my last name [VIH-ter-sik](vitercik.mp3).
+I pronounce my last name [VIH-ter-sik](assets/audio/vitercik.mp3).
