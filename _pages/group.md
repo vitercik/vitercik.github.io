@@ -10,10 +10,11 @@ nav_order: 3
 ## Current students
 
 ### PhD students
-- [Ishani Karmarkar](https://ishanikarmarkar.github.io/), co-advised with Aaron Sidford
-- Anders Wikum
+
 - [Yu He](https://dransyhe.github.io/)
 - Mika Jain (co-advised with Greg Valiant)
+- [Ishani Karmarkar](https://ishanikarmarkar.github.io/), co-advised with Aaron Sidford
+- Anders Wikum
 
 ### Masters students
 - Yash Dalmia
