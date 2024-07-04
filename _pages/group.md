@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-## Current students
+## **Current students**
 
 ### PhD students
 
@@ -19,7 +19,7 @@ nav_order: 3
 ### Masters students
 - Yash Dalmia
 
-## Alumni
+## **Alumni**
 
 ### Masters students
 - Alexandre Hayderi
