@@ -12,12 +12,15 @@ nav_order: 3
 ### PhD students
 
 - [Yu He](https://dransyhe.github.io/)
-- Mika Jain (co-advised with Greg Valiant)
+- Mika Jain, co-advised with Greg Valiant
 - [Ishani Karmarkar](https://ishanikarmarkar.github.io/), co-advised with Aaron Sidford
 - Anders Wikum
 
 ### Masters students
 - Yash Dalmia
+
+### Postdocs
+- [Connor Lawless](https://conlaw.github.io/), joint with Madeleine Udell
 
 ## **Alumni**
 
