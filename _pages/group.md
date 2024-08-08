@@ -14,6 +14,7 @@ nav_order: 3
 - [Yu He](https://dransyhe.github.io/)
 - Mika Jain, co-advised with Greg Valiant
 - [Ishani Karmarkar](https://ishanikarmarkar.github.io/), co-advised with Aaron Sidford
+- Yingxi Li
 - Anders Wikum
 
 ### Masters students
