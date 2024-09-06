@@ -2,15 +2,13 @@
 layout: about
 title: about
 permalink: /
-#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://vitercik.github.io/assets/pdf/CV.pdf'>CV</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: #>
-    <p><a href='https://vitercik.github.io/assets/pdf/CV.pdf'>CV</a></p>
-    <br>
     <p>vitercik@stanford.edu</p>
     #<p>Jen-Hsun Huang Engineering Center, Room 250</p>
     #<p>475 Via Ortega</p>
