@@ -15,6 +15,7 @@ nav_order: 3
 - Mika Jain, co-advised with Greg Valiant
 - [Ishani Karmarkar](https://ishanikarmarkar.github.io/), co-advised with Aaron Sidford
 - Yingxi Li
+- [Nikil Selvam](https://www.nikilrs.com/), co-advised with Sanmi Koyejo
 - Anders Wikum
 
 ### Masters students
