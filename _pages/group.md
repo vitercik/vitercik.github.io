@@ -19,7 +19,7 @@ nav_order: 3
 - Anders Wikum
 
 ### Masters students
-- Yash Dalmia
+- Jingruo Sun
 
 ### Postdocs
 - [Connor Lawless](https://conlaw.github.io/), joint with Madeleine Udell
@@ -27,9 +27,10 @@ nav_order: 3
 ## **Alumni**
 
 ### Masters students
+- Yash Dalmia
 - Alexandre Hayderi
 
 ### Undergraduate students
-- Kiriaki Frangias (UC Berkeley → CMU)
-- Andrew Lin (UC Berkeley → Princeton)
-- David Zhang (UC Berkeley)
+- Kiriaki Frangias
+- Andrew Lin
+- David Zhang
