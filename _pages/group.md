@@ -18,11 +18,14 @@ nav_order: 3
 - [Nikil Selvam](https://www.nikilrs.com/), co-advised with Sanmi Koyejo
 - Anders Wikum
 
+### Postdocs
+- [Connor Lawless](https://conlaw.github.io/), joint with Madeleine Udell
+
 ### Masters students
 - Jingruo Sun
 
-### Postdocs
-- [Connor Lawless](https://conlaw.github.io/), joint with Madeleine Udell
+### Undergraduate students
+- [Patrick Ye](https://sites.google.com/view/patrick-peixuan-ye)
 
 ## **Alumni**
 
