@@ -23,9 +23,8 @@ I am an Assistant Professor at Stanford with a joint appointment
 between the [Management Science and Engineering](https://msande.stanford.edu/) department
 and the [Computer Science](https://cs.stanford.edu/) department.
 
-I am particularly excited about how machine learning can be used for discrete
-optimization and algorithmic reasoning.
-Here is a [course](https://vitercik.github.io/ml4do) that I have taught on the subject.
+My research interests include machine learning, algorithm design, discrete and combinatorial optimization,
+and the interface between economics and computational. I am particularly excited about how machine learning can be used for discrete optimization and algorithmic reasoning.
 
 Before joining Stanford, I was a [Miller](https://miller.berkeley.edu/)
 fellow at UC Berkeley, hosted by Michael Jordan and Jennifer Chayes.
