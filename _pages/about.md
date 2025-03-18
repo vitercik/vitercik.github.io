@@ -24,7 +24,7 @@ between the [Management Science and Engineering](https://msande.stanford.edu/) d
 and the [Computer Science](https://cs.stanford.edu/) department.
 
 My research interests include machine learning, algorithm design, discrete and combinatorial optimization,
-and the interface between economics and computational. I am particularly excited about how machine learning can be used for discrete optimization and algorithmic reasoning.
+and the interface between economics and computation. I am particularly excited about how machine learning can be used for discrete optimization and algorithmic reasoning.
 
 Before joining Stanford, I was a [Miller](https://miller.berkeley.edu/)
 fellow at UC Berkeley, hosted by Michael Jordan and Jennifer Chayes.
