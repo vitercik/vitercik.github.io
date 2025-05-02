@@ -3,6 +3,9 @@ layout: page
 permalink: /group/
 title: group
 description:
+images:
+  compare: true
+  slider: true
 nav: true
 nav_order: 3
 ---
