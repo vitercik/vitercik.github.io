@@ -7,6 +7,11 @@ nav: true
 nav_order: 3
 ---
 
+<div align="center">
+  <img src="/assets/img/photo1" alt="Photo 1" style="max-width: 45%; height: auto; margin: 10px;">
+  <img src="/assets/img/photo2" alt="Photo 2" style="max-width: 45%; height: auto; margin: 10px;">
+</div>
+
 ## **Current students**
 
 ### PhD students
