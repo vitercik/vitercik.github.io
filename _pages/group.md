@@ -8,8 +8,8 @@ nav_order: 3
 ---
 
 <div align="center">
-  <img src="/assets/img/photo1.jpg" alt="Photo 1" style="max-width: 45%; height: auto; margin: 10px;">
-  <img src="/assets/img/photo2.jpg" alt="Photo 2" style="max-width: 45%; height: auto; margin: 10px;">
+  <img src="https://vitercik.github.io/assets/img/photo1.jpg" alt="Photo 1" style="max-width: 45%; height: auto; margin: 10px;">
+  <img src="https://vitercik.github.io/assets/img/photo2.jpg" alt="Photo 2" style="max-width: 45%; height: auto; margin: 10px;">
 </div>
 
 ## **Current students**
