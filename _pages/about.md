@@ -37,4 +37,7 @@ My [thesis](https://vitercik.github.io/assets/pdf/thesis.pdf) won the
 	[CMU School of Computer Science Distinguished Dissertation Award](https://www.scs.cmu.edu/~scsfacts/dissertation.html), and the
 		[Honorable Mention Victor Lesser Distinguished Dissertation Award](https://www.ifaamas.org/award-victorlesser.html).
 
-I pronounce my last name [VIH-ter-sik](https://vitercik.github.io/assets/audio/vitercik.mp3).
+Miscellaneous information:
+- I pronounce my last name [VIH-ter-sik](https://vitercik.github.io/assets/audio/vitercik.mp3).
+- People often ask me about [my tiny phone](https://www.unihertz.com/products/jelly-star?srsltid=AfmBOoonsT86Ne19yQTxCCgjhOhOtttLD_8lfFgsNtw41eYDSBkqmbUP), which I've used and loved for the past five years.
+- I grew up in the beautiful town of Lincoln, Vermont.
