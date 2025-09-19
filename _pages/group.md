@@ -28,6 +28,7 @@ nav_order: 3
 - [Anders Wikum](https://anders-wikum.github.io/)
 
 ### Postdocs
+- [Nico Christianson](https://nicochristianson.com/), joint with Ram Rajagopal
 - [Connor Lawless](https://conlaw.github.io/), joint with Madeleine Udell
 - [Xizhi Tan](https://xizhitan.github.io/), joint with Aviad Rubinstein and Amin Saberi
 
