@@ -15,7 +15,7 @@ You're always welcome to reach out by email about anything.
 
 **Q: Would you write me a coterm recommendation letter? Do we need to meet?**
 
-A: If you’ve taken one of my classes or we’ve worked together in some substantial way, I’m generally happy to write for you. I receive many coterm letter requests each year, so if our interactions have been limited, I'll only be able to comment on your performance in the course (e.g., exams and homework). On the other hand, if you came to my office hours every week or put substantial work into your course project, I'll be able to write a stronger letter. If you think I’m a good choice, just send me an email---no meeting required.
+A: If you’ve taken one of my classes or we’ve worked together in some substantial way, I’m generally happy to write for you. I receive many coterm letter requests each year, so if our interactions have been limited, I'll only be able to comment on your performance in the course (e.g., exams and homework). On the other hand, if you came to my office hours every week or put substantial work into your course project (for a 200- or 300-level class), I'll be able to write a stronger letter. If you think I’m a good choice, just send me an email---no meeting required.
 
 Please be sure to reach out at least one week before the deadline; I can't write letters on shorter notice. Thank you for understanding!
 
