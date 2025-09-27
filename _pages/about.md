@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: #>
     <p>vitercik@stanford.edu</p>
-    #<p>Jen-Hsun Huang Engineering Center, Room 250</p>
+    <p><a href='https://vitercik.github.io/faq'>FAQ</a></p>
+    <p>Jen-Hsun Huang Engineering Center, Room 250</p>
     #<p>475 Via Ortega</p>
     #<p>Stanford, CA 94305</p>
 
