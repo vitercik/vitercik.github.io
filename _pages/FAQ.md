@@ -17,11 +17,12 @@ You're always welcome to reach out by email about anything.
 
 A: If you’ve taken one of my classes, are one of my undergraduate advisees, or we’ve worked together in some substantial way, I’m generally happy to write for you. I receive many coterm letter requests each year, so if our interactions have been limited, I'll only be able to comment on your performance in the course (e.g., exams and homework). On the other hand, if you came to my office hours every week or put substantial work into your course project, I'll be able to write a stronger letter. If you think I’m a good choice, just send me an email---no meeting required.
 
-**Q: I’m an undergraduate curious about research opportunities. Can I work with you?**
-
-A: The main entry points are through structured programs such as CURIS (CS). When I have projects for undergraduates, I announce them through CURIS. Occasionally I do work directly with undergrads outside these programs, but you need to have taken one of my 200- or 300-level courses. Resesarch projects usually grow out of a class project.
-
 Please be sure to reach out at least one week before the deadline; I can't write letters on shorter notice. Thank you for understanding!
+
+
+**Q: I’m an undergrad/masters student curious about research opportunities. Can I work with you?**
+
+A: Occasionally I work with undergrads and masters students on research, but you need to have taken one of my 200- or 300-level courses. Resesarch projects usually grow out of class projects that students devoted substantial energy to.
 
 ## For non-Stanford students:
 **Q: I’d like to apply to Stanford’s Ph.D. program. Are you taking students? Can I meet with you about my application?**
