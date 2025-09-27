@@ -2,7 +2,7 @@
 layout: page
 permalink: /faq/
 title: FAQ
-description: Based on Mary Wootters' [FAQ](https://sites.google.com/site/marywootters/faq?authuser=0).
+description: Based on Mary Wootters' <a href='https://sites.google.com/site/marywootters/faq?authuser=0'>FAQ</a>.
 nav: false
 ---
 
