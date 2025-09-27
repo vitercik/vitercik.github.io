@@ -2,7 +2,7 @@
 layout: page
 permalink: /faq/
 title: FAQ
-description:
+description: Based on Mary Wootters' [FAQ](https://sites.google.com/site/marywootters/faq?authuser=0).
 nav: false
 ---
 
@@ -11,7 +11,7 @@ You're always welcome to reach out by email about anything.
 
 **Other students:** Please check this page first—if your question isn’t covered, feel free to email me.
 
-# For Stanford students:
+## For Stanford students:
 
 **Q:** Would you write me a coterm recommendation letter? Do we need to meet?
 
@@ -23,7 +23,7 @@ A: The main entry points are through structured programs such as CURIS (CS). Whe
 
 Please be sure to reach out at least one week before the deadline; I can't write letters on shorter notice. Thank you for understanding!
 
-# For non-Stanford students:
+## For non-Stanford students:
 **Q:** I’d like to apply to Stanford’s Ph.D. program. Are you taking students? Can I meet with you about my application?
 
 A: Thanks very much for your interest! Because of the volume of inquiries, I’m not able to respond individually to every prospective student. At Stanford, admission decisions are made at the departmental level, not by individual faculty. My advice is to apply directly to the program. If you’re admitted, I’d be glad to talk with you about possible projects in my group.
