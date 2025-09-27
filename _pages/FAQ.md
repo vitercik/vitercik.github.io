@@ -27,7 +27,7 @@ A: Occasionally I work with undergrads and masters students on research, but you
 ## For non-Stanford students:
 **Q: I’d like to apply to Stanford’s Ph.D. program. Are you taking students? Can I meet with you about my application?**
 
-A: Thanks very much for your interest! Because of the volume of inquiries, I’m not able to respond individually to every prospective student, but I really appreciate your interest. At Stanford, admission decisions are made at the departmental level, not by individual faculty. My advice is to apply directly to the program. If you’re admitted, I’d be glad to talk with you about possible projects in my group.
+A: Thanks very much for your interest! Because of the volume of inquiries, I’m not able to respond individually to every prospective student, but I really appreciate your interest. At Stanford, admission decisions are made at the departmental level, not by individual faculty. My advice is to apply directly to the program. If you’re admitted, I’d be happy to talk with you about possible projects in my group.
 
 **Q: Do you have openings for postdocs?**
 
@@ -36,4 +36,4 @@ A: I appreciate your interest! Please send me an email, especially highlighting 
 
 **Q: Can I do an internship in your lab?**
 
-A: Unfortunately, I don’t have internship positions (paid or unpaid) for students outside of Stanford, including high-school students.
+A: Unfortunately, I don’t have internship positions (paid or unpaid) for students outside of Stanford, including high school students.
