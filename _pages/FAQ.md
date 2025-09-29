@@ -22,16 +22,16 @@ Please be sure to reach out at least one week before the deadline; I can't write
 
 **Q: I’m an undergrad/masters student curious about research opportunities. Can I work with you?**
 
-A: Occasionally I work with undergrads and masters students on research, but you need to have taken one of my 200- or 300-level courses. Resesarch projects usually grow out of class projects that students devoted substantial energy to.
+A: Occasionally I work with undergrad and masters students on research, but you need to have taken one of my 200- or 300-level courses. Resesarch projects usually grow out of class projects that students devoted substantial energy to.
 
 ## For non-Stanford students:
 **Q: I’d like to apply to Stanford’s Ph.D. program. Are you taking students? Can I meet with you about my application?**
 
-A: Thanks very much for your interest! Because of the volume of inquiries, I’m not able to respond individually to every prospective student, but I really appreciate your interest. At Stanford, admission decisions are made at the departmental level, not by individual faculty. My advice is to apply directly to the program. If you’re admitted, I’d be happy to talk with you about possible projects in my group.
+A: Thank you very much for your interest! Because of the volume of inquiries, I’m not able to respond individually to every prospective student, but I really appreciate your interest. At Stanford, admission decisions are made at the departmental level, not by individual faculty. My advice is to apply directly to the program. If you’re admitted, I’d be happy to talk with you about possible projects in my group.
 
 **Q: Do you have openings for postdocs?**
 
-A: I appreciate your interest! Please send me an email, especially highlighting your possible directions you'd like to pursue and how they connect with the work my group is doing.
+A: I appreciate your interest! Please send me an email, especially highlighting the possible directions you'd like to pursue and how they connect with the work my group is doing.
 
 
 **Q: Can I do an internship in your lab?**
