@@ -23,7 +23,7 @@ nav_order: 3
 - [Yu He](https://dransyhe.github.io/)
 - Mika Jain, co-advised with Greg Valiant
 - [Ishani Karmarkar](https://ishanikarmarkar.github.io/), co-advised with Aaron Sidford
-- Yingxi Li
+- [Yingxi Li](https://yingxi-li.github.io/)
 - [Nikil Selvam](https://www.nikilrs.com/), co-advised with Sanmi Koyejo
 - [Anders Wikum](https://anders-wikum.github.io/)
 
