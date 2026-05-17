@@ -7,7 +7,7 @@ images:
   compare: true
   slider: true
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
@@ -22,7 +22,6 @@ nav_order: 3
 ### PhD students
 
 - [Yu He](https://dransyhe.github.io/)
-- Mika Jain, co-advised with Greg Valiant
 - [Ishani Karmarkar](https://ishanikarmarkar.github.io/), co-advised with Aaron Sidford
 - [Yingxi Li](https://yingxi-li.github.io/)
 - [Nikil Selvam](https://www.nikilrs.com/), co-advised with Sanmi Koyejo

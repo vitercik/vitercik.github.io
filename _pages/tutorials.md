@@ -4,11 +4,12 @@ permalink: /tutorials/
 title: tutorials
 description:
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
-
-
+- **LLMs for Optimization: Modeling, Solving, and Validating with Generative AI**  
+AAAI 2026
+[[website]](https://conlaw.github.io/llm_opt_tutorial/tutorial.html)
 - **Machine Learning for Discrete Optimization:Theoretical Guarantees and Applied Frontiers**  
 AAAI 2024  
 [[slides]](https://vitercik.github.io/assets/pdf/AAAI24.pdf) [[animated slides]](https://vitercik.github.io/assets/pdf/AAAI24_long.pdf)  
