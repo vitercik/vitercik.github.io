@@ -30,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/group/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Teaching at Stanford",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "nav-tutorials",
           title: "tutorials",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/tutorials/";
+          },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Teaching at Stanford",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
           },
         },{id: "nav-bio",
           title: "bio",
