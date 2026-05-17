@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://vitercik.github.io/assets/pdf/CV.pdf'>CV</a>
+subtitle: 
 
 profile:
   align: right
