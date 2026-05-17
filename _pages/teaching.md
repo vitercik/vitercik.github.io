@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Teaching at Stanford
 nav: true
-nav_order: 4
+nav_order: 6
 ---
 
 - Winter 2026: [Design and Analysis of Algorithms](https://stanford-cs161.github.io/winter2026/) (CS161)
