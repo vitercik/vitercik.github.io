@@ -10,6 +10,9 @@ nav: true
 nav_order: 3
 ---
 
+- [Survey on Machine Learning for Combinatorial Optimization](https://vitercik.github.io/assets/pdf/HALG.pdf)
+  - (2026) Highlights of Algorithms (HALG)
+
 - [Can LLMs Reason Structurally? Benchmarking via the Lens of Data Structures](https://vitercik.github.io/assets/pdf/dsr_bench.pdf)
   - (2026) Simons Institute for the Theory of Computing, Workshop on the Role of TCS in Modern Machine Learning
 
