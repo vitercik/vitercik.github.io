@@ -5,4 +5,4 @@ cv_pdf: /assets/pdf/CV.pdf # path to your CV PDF file
 email: vitercik@stanford.edu # your email address
 linkedin_username: vitercik # your LinkedIn username
 x_username: vitercik # your X (formerly Twitter) username
-bluesky_url: ellen-v.bsky.social # your Bluesky profile URL
+bluesky_url: https://bsky.app/profile/ellen-v.bsky.social # your Bluesky profile URL
