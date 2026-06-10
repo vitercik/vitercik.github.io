@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -43,11 +43,12 @@ where I was advised by Nina Balcan and Tuomas Sandholm.
 
 My research has been recognized by a [Schmidt Sciences AI2050 Early Career Fellowship](https://www.schmidtsciences.org/schmidt-sciences-to-award-12-million-to-advance-research-on-beneficial-ai/) and an [NSF CAREER award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338226&HistoricalAwards=false).
 My [thesis](https://vitercik.github.io/assets/pdf/thesis.pdf) won the
-	[SIGecom Doctoral Dissertation Award](https://www.sigecom.org/award-phd.html), the
-	[CMU School of Computer Science Distinguished Dissertation Award](https://www.scs.cmu.edu/~scsfacts/dissertation.html), and the
-		[Honorable Mention Victor Lesser Distinguished Dissertation Award](https://www.ifaamas.org/award-victorlesser.html).
+[SIGecom Doctoral Dissertation Award](https://www.sigecom.org/award-phd.html), the
+[CMU School of Computer Science Distinguished Dissertation Award](https://www.scs.cmu.edu/~scsfacts/dissertation.html), and the
+[Honorable Mention Victor Lesser Distinguished Dissertation Award](https://www.ifaamas.org/award-victorlesser.html).
 
 Miscellaneous information:
+
 - I pronounce my last name [VIH-ter-sik](https://vitercik.github.io/assets/audio/vitercik.mp3).
 - People often ask me about [my tiny phone](https://www.unihertz.com/products/jelly-star?srsltid=AfmBOoonsT86Ne19yQTxCCgjhOhOtttLD_8lfFgsNtw41eYDSBkqmbUP), which I've used and loved for the past five years.
 - I grew up in the beautiful town of Lincoln, Vermont.
