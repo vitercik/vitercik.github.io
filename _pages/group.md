@@ -12,7 +12,7 @@ nav_order: 4
 
 ## Current
 
-### PhD students
+#### PhD students
 
 - [Yu He](https://dransyhe.github.io/)
 - [Yingxi Li](https://yingxi-li.github.io/)
@@ -20,7 +20,7 @@ nav_order: 4
 - [Nikil Selvam](https://www.nikilrs.com/), co-advised with Sanmi Koyejo
 - [Anders Wikum](https://anders-wikum.github.io/)
 
-### Postdocs
+#### Postdocs
 
 - [Nico Christianson](https://nicochristianson.com/), joint with Ram Rajagopal
 - [Connor Lawless](https://conlaw.github.io/), joint with Madeleine Udell
@@ -28,5 +28,5 @@ nav_order: 4
 
 ## Alumni
 
-### PhD students
+#### PhD students
 - [Ishani Karmarkar](https://ishanikarmarkar.github.io/), co-advised with Aaron Sidford, Google
