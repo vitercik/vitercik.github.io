@@ -22,17 +22,9 @@ cleanup() {
 trap cleanup EXIT
 
 site="${tmp_dir}/site"
-override_file="${tmp_dir}/im-off.yml"
-
-# Disable ImageMagick responsive-image generation: it is unrelated to CSS and is
-# by far the slowest build step. CSS output is identical with it on or off.
-cat >"${override_file}" <<'YAML'
-imagemagick:
-  enabled: false
-YAML
 
 JEKYLL_ENV=production bundle exec jekyll build \
-  --config "_config.yml,${override_file}" -d "${site}" >/dev/null
+  --config "_config.yml,test/integration-test-config.yml" -d "${site}" >/dev/null
 
 tailwind_css="${site}/assets/css/tailwind.css"
 main_css="${site}/assets/css/main.css"
