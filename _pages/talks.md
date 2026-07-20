@@ -10,6 +10,9 @@ nav: true
 nav_order: 3
 ---
 
+- [Reliable Machine Learning for Discrete Decision-Making](https://vitercik.github.io/assets/pdf/WALE26.pdf)
+  - (2026) Work­shop on Al­go­rithms for Learn­ing and Eco­nom­ics (WALE)
+
 - [Survey on Machine Learning for Combinatorial Optimization](https://vitercik.github.io/assets/pdf/HALG.pdf)
   - (2026) Highlights of Algorithms (HALG)
 
