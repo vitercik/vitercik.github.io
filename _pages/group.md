@@ -22,8 +22,6 @@ nav_order: 4
 
 #### Postdocs
 
-- [Nico Christianson](https://nicochristianson.com/), joint with Ram Rajagopal
-- [Connor Lawless](https://conlaw.github.io/), joint with Madeleine Udell
 - [Xizhi Tan](https://xizhitan.github.io/), joint with Aviad Rubinstein and Amin Saberi
 
 ## Alumni
@@ -31,3 +29,8 @@ nav_order: 4
 #### PhD students
 
 - [Ishani Karmarkar](https://ishanikarmarkar.github.io/), co-advised with Aaron Sidford, Google
+
+#### Postdocs
+
+- [Nico Christianson](https://nicochristianson.com/), joint with Ram Rajagopal
+- [Connor Lawless](https://conlaw.github.io/), joint with Madeleine Udell
