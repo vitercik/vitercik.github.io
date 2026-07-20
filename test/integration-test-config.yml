@@ -1,0 +1,5 @@
+# Keep integration builds deterministic and focused on the feature under test.
+external_sources: []
+
+imagemagick:
+  enabled: false

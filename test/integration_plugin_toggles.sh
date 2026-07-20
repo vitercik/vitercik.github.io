@@ -14,7 +14,7 @@ remove_plugin_and_build() {
 
   ruby -rpsych -e "cfg = Psych.unsafe_load_file('_config.yml'); plugins = Array(cfg['plugins']).reject { |p| p == '${plugin}' }; puts({ 'plugins' => plugins }.to_yaml)" >"${override}"
 
-  bundle exec jekyll build --config "_config.yml,${override}" -d "${output_site}" >/dev/null
+  bundle exec jekyll build --config "_config.yml,test/integration-test-config.yml,${override}" -d "${output_site}" >/dev/null
   if [ ! -f "${output_site}/index.html" ]; then
     echo "expected site output for plugin toggle ${plugin}" >&2
     exit 1
