@@ -1,5 +1,6 @@
 ---
 layout: page
+published: false
 title: plugins
 permalink: /plugins/
 nav: false

@@ -1,5 +1,6 @@
 ---
 layout: default
+published: false
 permalink: /blog/
 title: blog
 nav: false
@@ -8,7 +9,7 @@ pagination:
   enabled: true
   collection: posts
   permalink: /page/:num/
-  per_page: 5
+  per_page: 1 # keep pagination controls exercised by the unpublished visual fixture
   sort_field: date
   sort_reverse: true
   trail:

@@ -10,11 +10,15 @@ on:
       - "Gemfile"
       - "Gemfile.lock"
       - "_config.yml"
+      - "_books/**"
       - "_data/**"
+      - "_news/**"
       - "_pages/**"
       - "_posts/**"
       - "_projects/**"
+      - "_teachings/**"
       - "assets/**"
+      - "robots.txt"
       - "test/**"
       - "package.json"
       - "package-lock.json"
@@ -28,11 +32,15 @@ on:
       - "Gemfile"
       - "Gemfile.lock"
       - "_config.yml"
+      - "_books/**"
       - "_data/**"
+      - "_news/**"
       - "_pages/**"
       - "_posts/**"
       - "_projects/**"
+      - "_teachings/**"
       - "assets/**"
+      - "robots.txt"
       - "test/**"
       - "package.json"
       - "package-lock.json"
@@ -73,6 +81,9 @@ jobs:
         run: |
           sudo apt-get update && sudo apt-get install -y imagemagick
           pip3 install --upgrade nbconvert
+
+      - name: Run production site hygiene test 🧼
+        run: bash test/integration_site_hygiene.sh
 
       - name: Run comments integration test 🧪
         run: bash test/integration_comments.sh
