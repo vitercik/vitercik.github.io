@@ -2,7 +2,8 @@
 layout: page
 permalink: /bio/
 title: bio
-description:
+description: >-
+  A short biography of Ellen Vitercik, Assistant Professor jointly appointed in Management Science and Engineering and Computer Science at Stanford.
 nav: true
 nav_order: 7
 ---

@@ -2,9 +2,12 @@
 layout: page
 permalink: /faq/
 title: FAQ
-description: Based on Mary Wootters' <a href='https://sites.google.com/site/marywootters/faq?authuser=0'>FAQ</a>.
+description: >-
+  Answers to common questions for Stanford students and prospective graduate students or postdocs interested in my teaching and research group.
 nav: false
 ---
+
+_Adapted from [Mary Wootters' FAQ](https://sites.google.com/site/marywootters/faq?authuser=0)._
 
 **If you're an undergraduate/masters student I advise, or a Stanford Ph.D. student:**
 You're always welcome to reach out by email about anything.
@@ -21,7 +24,7 @@ Please be sure to reach out at least one week before the deadline; I can't write
 
 **Q: I’m an undergrad/masters student curious about research opportunities. Can I work with you?**
 
-A: Occasionally I work with undergrad and masters students on research, but you need to have taken one of my 200- or 300-level courses. Resesarch projects usually grow out of class projects that students devoted substantial energy to.
+A: Occasionally I work with undergrad and masters students on research, but you need to have taken one of my 200- or 300-level courses. Research projects usually grow out of class projects that students devoted substantial energy to.
 
 ## For non-Stanford students:
 

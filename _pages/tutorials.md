@@ -2,7 +2,8 @@
 layout: page
 permalink: /tutorials/
 title: tutorials
-description:
+description: >-
+  Tutorials on machine learning for optimization and algorithm design, and automated mechanism design.
 nav: true
 nav_order: 5
 ---
@@ -10,10 +11,10 @@ nav_order: 5
 - **LLMs for Optimization: Modeling, Solving, and Validating with Generative AI**  
   AAAI 2026
   [[website]](https://conlaw.github.io/llm_opt_tutorial/tutorial.html)
-- **Machine Learning for Discrete Optimization:Theoretical Guarantees and Applied Frontiers**  
+- **Machine Learning for Discrete Optimization: Theoretical Guarantees and Applied Frontiers**<br>
   AAAI 2024  
   [[slides]](https://vitercik.github.io/assets/pdf/AAAI24.pdf) [[animated slides]](https://vitercik.github.io/assets/pdf/AAAI24_long.pdf)
-- **Machine Learning for Algorithm Design:Theoretical Guarantees and Applied Frontiers**  
+- **Machine Learning for Algorithm Design: Theoretical Guarantees and Applied Frontiers**<br>
   [Cargese-Porquerolles Workshop on Combinatorial Optimization](https://www.cargese.org/2023/)  
   [[slides]](https://vitercik.github.io/assets/pdf/cargese.pdf)
 - **New Frontiers of Automated Mechanism Design for Pricing and Auctions**  

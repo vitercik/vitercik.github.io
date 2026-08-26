@@ -3,6 +3,11 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/CV.pdf # path to your CV PDF file
 email: vitercik@stanford.edu # your email address
+work_url: https://profiles.stanford.edu/ellen-vitercik # your institutional profile
+scholar_userid: 6iUjvyMAAAAJ # your Google Scholar ID
+orcid_id: 0000-0003-4891-1367 # your ORCID ID
+dblp_url: https://dblp.org/pid/160/8900 # your DBLP profile URL
+github_username: vitercik # your GitHub username
 linkedin_username: vitercik # your LinkedIn username
 x_username: vitercik # your X (formerly Twitter) username
 bluesky_url: https://bsky.app/profile/ellen-v.bsky.social # your Bluesky profile URL

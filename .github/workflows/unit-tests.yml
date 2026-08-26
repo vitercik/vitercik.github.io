@@ -18,6 +18,7 @@ on:
       - "_projects/**"
       - "_teachings/**"
       - "assets/**"
+      - "awards/**"
       - "robots.txt"
       - "test/**"
       - "package.json"
@@ -40,6 +41,7 @@ on:
       - "_projects/**"
       - "_teachings/**"
       - "assets/**"
+      - "awards/**"
       - "robots.txt"
       - "test/**"
       - "package.json"
@@ -84,6 +86,9 @@ jobs:
 
       - name: Run production site hygiene test 🧼
         run: bash test/integration_site_hygiene.sh
+
+      - name: Run production metadata test 🔎
+        run: bash test/integration_metadata.sh
 
       - name: Run comments integration test 🧪
         run: bash test/integration_comments.sh

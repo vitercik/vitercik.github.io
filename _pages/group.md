@@ -2,7 +2,8 @@
 layout: page
 permalink: /group/
 title: group
-description:
+description: >-
+  Current and former PhD students and postdoctoral researchers in my research group at Stanford.
 images:
   compare: true
   slider: true

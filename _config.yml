@@ -8,7 +8,7 @@ middle_name:
 last_name: Vitercik
 email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Ellen Vitercik's website
+  Ellen Vitercik is an Assistant Professor at Stanford working on machine learning, algorithm design, discrete optimization, and economics and computation.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: # add your own keywords or leave empty
@@ -83,7 +83,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: true
 posts_in_search: true
@@ -97,9 +97,9 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: false # Keep disabled until al_folio_core emits correct homepage social titles
+serve_schema_org: false # Keep disabled until al_folio_core emits a reusable Person identity
+og_image: https://vitercik.github.io/assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -489,7 +489,7 @@ enable_publication_thumbnails: false
 # These are the defaults
 external_links:
   enabled: true
-  rel: external nofollow noopener
+  rel: external noopener
   target: _blank
   exclude:
 

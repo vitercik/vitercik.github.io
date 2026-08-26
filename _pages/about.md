@@ -2,6 +2,8 @@
 layout: about
 title: about
 permalink: /
+description: >-
+  Ellen Vitercik is an Assistant Professor at Stanford working on machine learning, algorithm design, discrete optimization, and economics and computation.
 subtitle:
 
 profile:
@@ -29,12 +31,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor at Stanford with a joint appointment
-between the [Management Science and Engineering](https://msande.stanford.edu/) department
-and the [Computer Science](https://cs.stanford.edu/) department.
+I am an Assistant Professor at Stanford University, jointly appointed in the
+[Management Science and Engineering](https://msande.stanford.edu/) and
+[Computer Science](https://cs.stanford.edu/) departments.
 
-My research interests include machine learning, algorithm design, discrete and combinatorial optimization,
-and the interface between economics and computation. I am particularly excited about how machine learning can be used for discrete optimization and algorithmic reasoning (see the [class](https://vitercik.github.io/ai4algs_25/) I've taught on the subject).
+My research spans machine learning, algorithm design, and discrete and combinatorial optimization,
+including the interface between economics and computation. I am especially interested in using machine learning
+for discrete optimization and algorithmic reasoning; see my [course on the subject](https://vitercik.github.io/ai4algs_25/).
 
 Before joining Stanford, I was a [Miller](https://miller.berkeley.edu/)
 fellow at UC Berkeley, hosted by Michael Jordan and Jennifer Chayes.

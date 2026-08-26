@@ -35,6 +35,17 @@ ruby -rpsych -e '
   end
 '
 
+vertical_tab_matches="$(
+  LC_ALL=C grep -rIl $'\v' \
+    _bibliography _books _config.yml _data _news _pages _posts _teachings awards \
+    2>/dev/null || true
+)"
+if [ -n "${vertical_tab_matches}" ]; then
+  echo "ASCII vertical-tab byte found in site source:" >&2
+  printf '%s\n' "${vertical_tab_matches}" >&2
+  exit 1
+fi
+
 JEKYLL_ENV=production bundle exec jekyll build \
   --config "_config.yml,test/integration-test-config.yml" -d "${site}" >/dev/null
 

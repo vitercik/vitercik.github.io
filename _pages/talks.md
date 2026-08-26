@@ -2,7 +2,8 @@
 layout: page
 permalink: /talks/
 title: talks
-description: Recent talks
+description: >-
+  Recent research talks on machine learning, discrete optimization, combinatorial optimization, and algorithmic reasoning.
 images:
   compare: true
   slider: true

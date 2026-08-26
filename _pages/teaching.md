@@ -2,7 +2,8 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Teaching at Stanford
+description: >-
+  Stanford courses in probability, algorithms, machine learning, and discrete optimization.
 nav: true
 nav_order: 6
 ---
