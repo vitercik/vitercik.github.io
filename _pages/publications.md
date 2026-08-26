@@ -5,7 +5,7 @@ title: publications
 description: >-
   Publications in machine learning, algorithm design, discrete and combinatorial optimization, and economics and computation.
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 <!-- _pages/publications.md -->

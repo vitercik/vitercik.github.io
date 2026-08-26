@@ -8,7 +8,7 @@ images:
   compare: true
   slider: true
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 ## Current

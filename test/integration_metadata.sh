@@ -108,10 +108,6 @@ pages = {
         "/publications/",
         "Publications in machine learning, algorithm design, discrete and combinatorial optimization, and economics and computation.",
     ),
-    "research/index.html": (
-        "/research/",
-        "Research on learning theory and algorithm design, machine learning for optimization and decision-making, algorithmic reasoning in AI systems, and learning in markets and mechanisms.",
-    ),
     "bio/index.html": (
         "/bio/",
         "A short biography of Ellen Vitercik, Assistant Professor jointly appointed in Management Science and Engineering and Computer Science at Stanford.",
@@ -165,7 +161,6 @@ for relative_file, (path, description) in pages.items():
 
 home_links = {anchor.get("href", "") for anchor in home_anchors}
 require(required_identity_links <= home_links, "homepage is missing a verified identity link")
-require("/research/" in home_links, "homepage is missing the research overview link")
 for identity_link in required_identity_links:
     matching_anchors = [anchor for anchor in home_anchors if anchor.get("href") == identity_link]
     require(

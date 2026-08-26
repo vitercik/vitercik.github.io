@@ -8,7 +8,7 @@ images:
   compare: true
   slider: true
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 - [Reliable Machine Learning for Discrete Decision-Making](https://vitercik.github.io/assets/pdf/WALE26.pdf)

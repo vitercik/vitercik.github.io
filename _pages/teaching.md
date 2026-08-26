@@ -5,7 +5,7 @@ title: teaching
 description: >-
   Stanford courses in probability, algorithms, machine learning, and discrete optimization.
 nav: true
-nav_order: 7
+nav_order: 6
 ---
 
 - Fall 2022-2026: [Introduction to Probability](https://vitercik.github.io/probability/) (MS&E 120)

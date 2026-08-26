@@ -5,7 +5,7 @@ title: tutorials
 description: >-
   Tutorials on machine learning for optimization and algorithm design, and automated mechanism design.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 - **LLMs for Optimization: Modeling, Solving, and Validating with Generative AI**  

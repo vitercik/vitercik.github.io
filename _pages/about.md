@@ -37,8 +37,7 @@ I am an Assistant Professor at Stanford University, jointly appointed in the
 
 My research spans machine learning, algorithm design, and discrete and combinatorial optimization,
 including the interface between economics and computation. I am especially interested in using machine learning
-for discrete optimization and algorithmic reasoning; see my [research overview]({{ '/research/' | relative_url }}) and
-[course on the subject](https://vitercik.github.io/ai4algs_25/).
+for discrete optimization and algorithmic reasoning; see my [course on the subject](https://vitercik.github.io/ai4algs_25/).
 
 Before joining Stanford, I was a [Miller](https://miller.berkeley.edu/)
 fellow at UC Berkeley, hosted by Michael Jordan and Jennifer Chayes.
