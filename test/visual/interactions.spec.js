@@ -85,7 +85,7 @@ test("blog pagination uses core Tailwind-native styling contract", async ({ page
   expect(styles.paddingLeft).not.toBe("0px");
 });
 
-test("navbar menu stays right-aligned on desktop pages", async ({ page }, testInfo) => {
+test("homepage social links and navbar share one right-aligned desktop row", async ({ page }, testInfo) => {
   test.skip(testInfo.project.name === "mobile", "desktop-only alignment contract");
 
   await preparePage(page, "light");
@@ -94,20 +94,25 @@ test("navbar menu stays right-aligned on desktop pages", async ({ page }, testIn
 
   const alignment = await page.evaluate(() => {
     const container = document.querySelector("#navbar .container");
+    const social = document.querySelector("#navbar .navbar-brand.social");
     const menu = document.querySelector("#navbarNav .navbar-menu-list");
-    if (!container || !menu) {
+    if (!container || !social || !menu) {
       return null;
     }
     const containerBox = container.getBoundingClientRect();
+    const socialBox = social.getBoundingClientRect();
     const menuBox = menu.getBoundingClientRect();
     return {
       containerRight: containerBox.right,
       menuRight: menuBox.right,
+      socialCenterY: socialBox.top + socialBox.height / 2,
+      menuCenterY: menuBox.top + menuBox.height / 2,
     };
   });
 
   expect(alignment).not.toBeNull();
   expect(Math.abs(alignment.menuRight - alignment.containerRight)).toBeLessThanOrEqual(24);
+  expect(Math.abs(alignment.socialCenterY - alignment.menuCenterY)).toBeLessThanOrEqual(2);
 });
 
 test("navbar search button opens modal and toggle buttons use pointer cursor", async ({ page }, testInfo) => {

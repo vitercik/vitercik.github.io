@@ -135,10 +135,9 @@ pages = {
 }
 required_identity_links = {
     "https://profiles.stanford.edu/ellen-vitercik",
-    "https://scholar.google.com/citations?user=6iUjvyMAAAAJ",
-    "https://orcid.org/0000-0003-4891-1367",
-    "https://dblp.org/pid/160/8900",
     "https://github.com/vitercik",
+    "https://www.linkedin.com/in/vitercik",
+    "https://twitter.com/vitercik",
 }
 home_anchors = []
 
