@@ -49,7 +49,7 @@ fi
 JEKYLL_ENV=production bundle exec jekyll build \
   --config "_config.yml,test/integration-test-config.yml" -d "${site}" >/dev/null
 
-for required_file in index.html publications/index.html robots.txt sitemap.xml; do
+for required_file in index.html research/index.html publications/index.html robots.txt sitemap.xml; do
   if [ ! -f "${site}/${required_file}" ]; then
     echo "expected production output is missing: ${required_file}" >&2
     exit 1

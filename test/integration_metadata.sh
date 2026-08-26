@@ -108,6 +108,10 @@ pages = {
         "/publications/",
         "Publications in machine learning, algorithm design, discrete and combinatorial optimization, and economics and computation.",
     ),
+    "research/index.html": (
+        "/research/",
+        "Research on learning theory and algorithm design, machine learning for optimization and decision-making, algorithmic reasoning in AI systems, and learning in markets and mechanisms.",
+    ),
     "bio/index.html": (
         "/bio/",
         "A short biography of Ellen Vitercik, Assistant Professor jointly appointed in Management Science and Engineering and Computer Science at Stanford.",
@@ -161,12 +165,25 @@ for relative_file, (path, description) in pages.items():
 
 home_links = {anchor.get("href", "") for anchor in home_anchors}
 require(required_identity_links <= home_links, "homepage is missing a verified identity link")
+require("/research/" in home_links, "homepage is missing the research overview link")
 for identity_link in required_identity_links:
     matching_anchors = [anchor for anchor in home_anchors if anchor.get("href") == identity_link]
     require(
         all("nofollow" not in anchor.get("rel", "").split() for anchor in matching_anchors),
         f"verified identity link is marked nofollow: {identity_link}",
     )
+
+home_html = (site / "index.html").read_text(encoding="utf-8")
+selected_titles = (
+    "How Much Data Is Sufficient to Learn High-performing Algorithms?",
+    "Learning to Branch: Generalization Guarantees and Limits of Data-Independent Discretization",
+    "Algorithms with Calibrated Machine Learning Predictions",
+    "Primal-Dual Neural Algorithmic Reasoning",
+    "Can LLMs Reason Structurally? Benchmarking via the Lens of Data Structures",
+    "Leveraging Reviews: Learning to Price with Buyer and Seller Uncertainty",
+)
+for title in selected_titles:
+    require(home_html.count(title) == 1, f"homepage must include the selected publication exactly once: {title}")
 
 awards_description = (
     "A curated, regularly-updated list of paper competitions, dissertation awards, fellowships, and early-career "
