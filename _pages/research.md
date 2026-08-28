@@ -23,9 +23,9 @@ ML has strong potential in algorithm design, but it can also introduce risks: an
 - [“How Much Data Is Sufficient to Learn High-performing Algorithms?”](https://arxiv.org/abs/1908.02894) (Balcan et al., JACM’24, STOC’21) provides broadly applicable generalization guarantees for configuring algorithms with ML.
 - [“Algorithms with Calibrated Machine Learning Predictions”](https://arxiv.org/abs/2502.02861) (Shen et al., ICML’25) examines how algorithms can adapt to uncertainty about their inputs, characterized via calibration.
 
-## Trustworthy artificial intelligence (AI) for discrete optimization
+## Trustworthy artificial intelligence for discrete optimization
 
-AI can be used to formulate and solve discrete optimization problems, but learned components can introduce failure modes that violate the guarantees that make traditional solvers trustworthy, such as feasibility and optimality. My research develops AI methods that speed up large-scale discrete optimization, while ensuring these critical guarantees are not sacrificed.
+Artificial intelligence (AI) can be used to formulate and solve discrete optimization problems, but learned components can introduce failure modes that violate the guarantees that make traditional solvers trustworthy, such as feasibility and optimality. My research develops AI methods that speed up large-scale discrete optimization, while ensuring these critical guarantees are not sacrificed.
 
 **Representative work:**
 
