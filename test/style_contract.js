@@ -6,6 +6,15 @@ const root = process.cwd();
 const read = (relPath) => fs.readFileSync(path.join(root, relPath), "utf8");
 const exists = (relPath) => fs.existsSync(path.join(root, relPath));
 const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+const listFiles = (relPath) => {
+  const absolutePath = path.join(root, relPath);
+  if (!fs.existsSync(absolutePath)) return [];
+  if (fs.statSync(absolutePath).isFile()) return [relPath];
+
+  return fs
+    .readdirSync(absolutePath, { withFileTypes: true })
+    .flatMap((entry) => listFiles(path.join(relPath, entry.name).split(path.sep).join("/")));
+};
 
 const failures = [];
 
@@ -61,7 +70,19 @@ if (/gem 'al_math',\s*:git =>/.test(gemfile)) {
   failures.push("`Gemfile` must not use git-branch pin for `al_math`; use released gem version.");
 }
 
-for (const forbiddenPath of ["_includes", "_layouts", "_sass", "_scripts", "assets/tailwind", "tailwind.config.js", "assets/webfonts"]) {
+const overrideManifest = exists(".al-folio-overrides.yml") ? read(".al-folio-overrides.yml") : "";
+const acknowledgedOverride = (relPath) => new RegExp(`^  ${escapeRegExp(relPath)}:\\s*$`, "m").test(overrideManifest);
+
+for (const overridePath of ["_includes", "_layouts", "_sass"]) {
+  const unacknowledgedFiles = listFiles(overridePath).filter((relPath) => !acknowledgedOverride(relPath));
+  if (unacknowledgedFiles.length > 0) {
+    failures.push(
+      `Starter contains unacknowledged core overrides: ${unacknowledgedFiles.join(", ")}. Review them with the al-folio override workflow.`
+    );
+  }
+}
+
+for (const forbiddenPath of ["_scripts", "assets/tailwind", "tailwind.config.js", "assets/webfonts"]) {
   if (exists(forbiddenPath)) {
     failures.push(`Starter must not own core component path \`${forbiddenPath}\`; move ownership to the corresponding gem.`);
   }

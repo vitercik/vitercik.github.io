@@ -97,9 +97,40 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Keep disabled until al_folio_core emits correct homepage social titles
-serve_schema_org: false # Keep disabled until al_folio_core emits a reusable Person identity
+serve_og_meta: true # Rendered by the tracked site-specific metadata override
+serve_schema_org: true # Emits one authoritative ProfilePage/Person graph on the homepage
 og_image: https://vitercik.github.io/assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
+og_image_alt: Portrait of Ellen Vitercik
+og_image_type: image/jpeg
+og_image_width: 1500
+og_image_height: 1500
+og_locale: en_US
+
+schema_person:
+  id: https://vitercik.github.io/#person
+  given_name: Ellen
+  family_name: Vitercik
+  job_title: Assistant Professor
+  image: https://vitercik.github.io/assets/img/prof_pic.jpg
+  works_for:
+    id: https://www.stanford.edu/#organization
+    name: Stanford University
+    url: https://www.stanford.edu/
+  same_as:
+    - https://profiles.stanford.edu/ellen-vitercik
+    - https://scholar.google.com/citations?user=6iUjvyMAAAAJ
+    - https://orcid.org/0000-0003-4891-1367
+    - https://dblp.org/pid/160/8900
+    - https://www.linkedin.com/in/vitercik
+    - https://x.com/vitercik
+    - https://bsky.app/profile/ellen-v.bsky.social
+  knows_about:
+    - machine learning
+    - algorithm design
+    - discrete optimization
+    - combinatorial optimization
+    - algorithmic reasoning
+    - economics and computation
 
 # -----------------------------------------------------------------------------
 # Social integration
