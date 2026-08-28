@@ -13,7 +13,7 @@ nav_order: 6
   IJCAI 2026  
   [[website]](https://feiliu36.github.io/llm_opt_tutorial_ijcai2026/)
 - **LLMs for Optimization: Modeling, Solving, and Validating with Generative AI**  
-  _with Connor Lawless_
+  _with Connor Lawless_  
   AAAI 2026  
   [[website]](https://conlaw.github.io/llm_opt_tutorial/tutorial.html)
 - **Machine Learning for Discrete Optimization: Theoretical Guarantees and Applied Frontiers**<br>
