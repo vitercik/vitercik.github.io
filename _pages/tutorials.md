@@ -9,7 +9,7 @@ nav_order: 6
 ---
 
 - **LLMs for Optimization: From Automated Modeling to Algorithmic Discovery**  
-  _with Fei Liu and Connor Lawless_
+  _with Fei Liu and Connor Lawless_  
   IJCAI 2026  
   [[website]](https://feiliu36.github.io/llm_opt_tutorial_ijcai2026/)
 - **LLMs for Optimization: Modeling, Solving, and Validating with Generative AI**  
