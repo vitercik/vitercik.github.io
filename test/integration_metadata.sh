@@ -110,7 +110,7 @@ pages = {
     ),
     "research/index.html": (
         "/research/",
-        "Research on learning-theoretic foundations of algorithm design, trustworthy AI for discrete optimization, algorithmic reasoning in AI systems, and learning in markets and mechanisms.",
+        "Summary of my research.",
     ),
     "bio/index.html": (
         "/bio/",
