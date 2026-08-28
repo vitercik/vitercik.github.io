@@ -138,8 +138,7 @@ pages = {
     ),
 }
 required_identity_links = {
-    "https://profiles.stanford.edu/ellen-vitercik",
-    "https://github.com/vitercik",
+    "https://bsky.app/profile/ellen-v.bsky.social",
     "https://www.linkedin.com/in/vitercik",
     "https://twitter.com/vitercik",
 }
