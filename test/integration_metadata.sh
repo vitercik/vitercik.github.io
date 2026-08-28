@@ -177,7 +177,6 @@ selected_titles = (
     "How Much Data Is Sufficient to Learn High-performing Algorithms?",
     "Learning to Branch: Generalization Guarantees and Limits of Data-Independent Discretization",
     "Algorithms with Calibrated Machine Learning Predictions",
-    "Primal-Dual Neural Algorithmic Reasoning",
     "Can LLMs Reason Structurally? Benchmarking via the Lens of Data Structures",
     "Leveraging Reviews: Learning to Price with Buyer and Seller Uncertainty",
 )
