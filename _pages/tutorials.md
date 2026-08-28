@@ -8,8 +8,13 @@ nav: true
 nav_order: 6
 ---
 
+- **LLMs for Optimization: From Automated Modeling to Algorithmic Discovery**  
+  _with Fei Liu and Connor Lawless_
+  IJCAI 2026  
+  [[website]](https://feiliu36.github.io/llm_opt_tutorial_ijcai2026/)
 - **LLMs for Optimization: Modeling, Solving, and Validating with Generative AI**  
-  AAAI 2026
+  _with Connor Lawless_
+  AAAI 2026  
   [[website]](https://conlaw.github.io/llm_opt_tutorial/tutorial.html)
 - **Machine Learning for Discrete Optimization: Theoretical Guarantees and Applied Frontiers**<br>
   AAAI 2024  
