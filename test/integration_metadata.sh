@@ -108,6 +108,10 @@ pages = {
         "/publications/",
         "Publications in machine learning, algorithm design, discrete and combinatorial optimization, and economics and computation.",
     ),
+    "research/index.html": (
+        "/research/",
+        "Research on learning-theoretic foundations of algorithm design, trustworthy AI for discrete optimization, algorithmic reasoning in AI systems, and learning in markets and mechanisms.",
+    ),
     "bio/index.html": (
         "/bio/",
         "A short biography of Ellen Vitercik, Assistant Professor jointly appointed in Management Science and Engineering and Computer Science at Stanford.",
