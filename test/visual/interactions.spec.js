@@ -38,8 +38,8 @@ test("theme control changes appearance and persists after reload", async ({ page
     await toggle.click();
   }
   await expect(page.locator("html")).toHaveAttribute("data-theme", target);
-  const after = await page.locator("body").evaluate((body) => getComputedStyle(body).backgroundColor);
-  expect(after).not.toBe(before);
+  // WebKit can update the theme attribute before painting the new colors.
+  await expect(page.locator("body")).not.toHaveCSS("background-color", before);
   await page.reload({ waitUntil: "load" });
   await expect(page.locator("html")).toHaveAttribute("data-theme", target);
 });
