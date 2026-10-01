@@ -16,7 +16,7 @@ Optimization underpins many of society's most pressing challenges, from decarbon
 
 ## Learning-theoretic foundations of algorithm design
 
-ML has strong potential in algorithm design, but it can also introduce risks: an algorithm that performs well on historical data may not generalize, and predictions about future inputs may be erroneous. I develop learning-theoretic methods that quantify these risks and characterize when data can be used reliably in algorithm design.
+ML has strong potential in algorithm design, but it can also introduce risks: an algorithm that performs well on historical data may not generalize, and predictions about future inputs may be erroneous. I develop learning-theoretic methods that quantify these risks and characterize when and how data can be used reliably in algorithm design.
 
 **Representative work:**
 
