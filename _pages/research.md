@@ -29,7 +29,7 @@ Artificial intelligence (AI) can be used to formulate and solve discrete optimiz
 
 **Representative work:**
 
-- AI is increasingly used to customize the optimization model provided to a solver, since a problem can be formulated in many ways, some faster to solve than others. [“EquivaMap”](https://arxiv.org/abs/2502.14760) (Zhai et al., ICML’25) develops methods to check if the customized model still faithfully represents the original problem.
+- AI is increasingly used to customize the optimization model provided to a solver, since a problem can be formulated in many ways, some faster to solve than others. [“EquivaMap”](https://arxiv.org/abs/2502.14760) (Zhai et al., ICML’25) and ["FLARE"](https://arxiv.org/abs/2608.25220) (Robbins et al., NeurIPS'26) develop methods to check if the customized model still faithfully represents the original problem.
 
 ## Algorithmic reasoning in AI systems
 
