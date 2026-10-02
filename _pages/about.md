@@ -5,7 +5,6 @@ permalink: /
 description: >-
   Ellen Vitercik is an Assistant Professor at Stanford working on machine learning, algorithm design, discrete optimization, and economics and computation.
 subtitle:
-
 profile:
   align: right
   image: prof_pic.jpg
