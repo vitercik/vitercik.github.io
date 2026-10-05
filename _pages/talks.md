@@ -11,6 +11,9 @@ nav: true
 nav_order: 5
 ---
 
+- [AI for trustworthy optimization](https://vitercik.github.io/assets/pdf/CS300_26.pdf)
+  - (2026) Stanford CS 300
+
 - [Reliable Machine Learning for Discrete Decision-Making](https://vitercik.github.io/assets/pdf/WALE26.pdf)
   - (2026) Work­shop on Al­go­rithms for Learn­ing and Eco­nom­ics (WALE)
 
