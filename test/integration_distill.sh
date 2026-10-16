@@ -51,8 +51,22 @@ if [ ! -f "${distill_page}" ]; then
 fi
 
 grep -q 'd-front-matter' "${distill_page}"
-grep -q '/assets/js/distillpub/template.v2.js' "${distill_page}"
-grep -q '/assets/js/distillpub/transforms.v2.js' "${distill_page}"
+bundle exec ruby -rnokogiri -e '
+  page = Nokogiri::HTML(File.read(ARGV[0]))
+  scripts = page.css("script[src]")
+  %w[template.v2.js transforms.v2.js].each do |runtime|
+    script = scripts.find do |node|
+      node["src"].start_with?("/") && !node["src"].start_with?("//") &&
+        node["src"].end_with?("/assets/js/distillpub/#{runtime}")
+    end
+    unless script && script["integrity"].to_s.start_with?("sha256-")
+      abort "expected local, integrity-pinned Distill script: #{runtime}"
+    end
+  end
+  if scripts.any? { |node| node["src"].include?("distill.pub/template") }
+    abort "Distill integration must not opt into the remote runtime loader"
+  end
+' "${distill_page}"
 grep -q '/assets/js/distillpub/overrides.js' "${distill_page}"
 grep -q '/assets/al_charts/js/mermaid-setup.js' "${distill_page}"
 grep -q 'https://cdn.jsdelivr.net/npm/@planktimerr/tikzjax@1.0.8/dist/fonts.css' "${distill_page}"
@@ -68,7 +82,7 @@ elif [ ! -f "${transforms_runtime}" ]; then
   exit 1
 fi
 
-expected_transforms_hash="70e3f488e23ec379d33a10a60311ec60b570b3b2d5f1823e9159f661c315184e"
+expected_transforms_hash="5d85590f5652b910ab2411019749c83ef5a5a3fbb9b739adc92b4557b6bf3d39"
 actual_transforms_hash="$(ruby -rdigest -e 'print Digest::SHA256.file(ARGV[0]).hexdigest' "${transforms_runtime}")"
 if [ "${actual_transforms_hash}" != "${expected_transforms_hash}" ]; then
   echo "unexpected distill transforms runtime hash: ${actual_transforms_hash}" >&2
