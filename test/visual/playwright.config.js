@@ -1,47 +1,39 @@
 const path = require("path");
 const { devices } = require("@playwright/test");
 
-const repoRoot = path.resolve(__dirname, "../..");
-
-const webServer = process.env.NO_WEBSERVER
-  ? undefined
-  : {
-      command: "bundle exec jekyll serve --unpublished --host 127.0.0.1 --port 4000 --baseurl /al-folio --quiet",
-      cwd: repoRoot,
-      url: "http://127.0.0.1:4000/al-folio/",
-      reuseExistingServer: !process.env.CI,
-      timeout: 300000,
-    };
+const baseURL = process.env.VISUAL_BASE_URL || "http://127.0.0.1:4000";
 
 module.exports = {
   testDir: __dirname,
-  timeout: 120000,
-  expect: {
-    timeout: 10000,
-    toHaveScreenshot: {
-      animations: "disabled",
-      fullPage: true,
-      maxDiffPixelRatio: 0.02,
-    },
-  },
+  timeout: 60000,
+  expect: { timeout: 10000 },
+  forbidOnly: Boolean(process.env.CI),
+  workers: process.env.CI ? 2 : undefined,
+  outputDir: path.resolve(__dirname, "../../output/playwright/results"),
+  reporter: [["list"], ["html", { outputFolder: path.resolve(__dirname, "../../output/playwright/report"), open: "never" }]],
   use: {
-    baseURL: "http://127.0.0.1:4000/al-folio",
+    baseURL,
     screenshot: "only-on-failure",
     trace: "retain-on-failure",
   },
-  webServer,
-  projects: [
-    {
-      name: "desktop",
-      use: {
-        viewport: { width: 1366, height: 1800 },
+  webServer: process.env.NO_WEBSERVER
+    ? undefined
+    : {
+        command: 'bundle exec jekyll build --baseurl "" && python3 -m http.server 4000 --bind 127.0.0.1 --directory _site',
+        cwd: path.resolve(__dirname, "../.."),
+        env: { JEKYLL_ENV: "production" },
+        url: baseURL,
+        reuseExistingServer: false,
+        timeout: 300000,
       },
+  projects: ["light", "dark"].flatMap((colorScheme) => [
+    {
+      name: `desktop-${colorScheme}`,
+      use: { ...devices["Desktop Chrome"], viewport: { width: 1366, height: 1000 }, colorScheme },
     },
     {
-      name: "mobile",
-      use: {
-        ...devices["iPhone 12"],
-      },
+      name: `mobile-${colorScheme}`,
+      use: { ...devices["iPhone 12"], colorScheme },
     },
-  ],
+  ]),
 };
